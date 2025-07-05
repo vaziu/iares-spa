@@ -1,0 +1,24 @@
+pre[class*="language-"],
+blockquote {
+  border-radius: 16px;
+  border: 1px var(--border-color) solid;
+  margin: 2em 0;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  background: #080a14;
+  color: #aea9b9;
+}
+
+blockquote {
+  padding: 1em;
+  margin: 1em 0;
+  background: #272a43;
+  border: 1px #455068 solid;
+  border-left: 3px #7989ae solid;
+}
+
+ol {
+  list-style: number;
+}

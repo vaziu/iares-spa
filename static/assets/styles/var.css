@@ -1,0 +1,36 @@
+:root {
+  --page-bg: #11121b;
+  --title-color: #a29eac;
+  --text-color: #a19bac;
+  --border-color: #2a3042;
+
+  --text-size: 1em;
+
+  /* Fam-code-ui*/
+  /*TextInput*/
+
+  --text-input-text-color: var(--text-color);
+  --text-input-background: #222838;
+
+  --text-input-border-color: var(--border-color);
+  --text-input-border-width: 1px;
+  --text-input-border-style: solid;
+  --text-input-border-radius: 1em;
+
+  --text-input-outline-width: 1px;
+  --text-input-outline-color: #444660;
+
+  --text-input-label-size: 0.875em;
+  --text-input-label-color: var(--text-input-text-color);
+
+  --text-input-invalid-background: #11010e;
+  --text-input-invalid-border-color: #563642;
+  --text-input-invalid-text-color: #aa5479;
+
+  --text-input-valid-background: #011111;
+  --text-input-valid-border-color: #05413d;
+  --text-input-valid-text-color: #14877f;
+
+  /*fam-icon*/
+  --icon-color: var(--text-color);
+}
